@@ -32,9 +32,9 @@ Before starting Day 01, make sure you have your environment ready:
 
 | Day | Topic | Key Concepts |
 | :--- | :--- | :--- |
-| **01** | [Intro & Setup](./01_Intro_and_Setup.ipynb) | `print()`, Comments, The "Hello World" Ritual |
-| **02** | [Variables](./02_Variables_and_Data_Types.ipynb) | Strings, Integers, F-Strings, Naming Rules |
-| **03** | [Input & Math](./03_Input_Output_and_Math.ipynb) | `input()`, Type Casting, Floor Division `//`, Modulo `%` |
+| **01** | [Print Function](./01_Print_Function.ipynb) | `print()`, Comments, The "Hello World" Ritual |
+| **02** | [Variables](./02_Variables_and_Data_Type.ipynb) | Strings, Integers, F-Strings, Naming Rules |
+| **03** | [Input & Math](./03_Input_Output_and_Type_Casting.ipynb) | `input()`, Type Casting, Floor Division `//`, Modulo `%` |
 | **04** | [Logic & Booleans](./04_Operators_and_Boolean_Logic.ipynb) | `True/False`, `and`, `or`, `not`, Comparison `==` |
 | **05** | [Conditionals](./05_Conditional_Statements.ipynb) | `if`, `elif`, `else`, Nested Decisions |
 | **06** | [For Loops](./06_For_Loops_and_Range.ipynb) | Iteration, `range()`, Accumulator Pattern |
@@ -52,13 +52,14 @@ Before starting Day 01, make sure you have your environment ready:
 | **12** | [Functions I](./12_Functions_Basics.ipynb) | `def`, Parameters, Arguments, Default Values |
 | **13** | [Functions II](./13_Functions_Return_and_Scope.ipynb) | `return` vs `print`, Global vs Local Scope |
 | **14** | [Error Handling](./14_Exception_Handling_Try_Except.ipynb) | `try`, `except`, Handling Crashes Gracefully |
-
+| **15** | [Review and Mini Project](./15_Review_and_Mini_Project_1.ipynb) | Capstone Project |
 ---
 
 ## 🎓 How to Use This Course
 1.  **Open the Notebook:** Click on the file for the day (e.g., `01_Intro...`).
 2.  **Read & Run:** Read the concept, then click the **Run** button on the code block to see it in action.
 3.  **Do the Activities:** At the bottom of every notebook, there are 5 Levels of challenges. **Do not skip these.** They are the only way to learn.
+4. **Solutions** for the activities are added in [solutions](./solutions/) directory.
 
 ---
 
