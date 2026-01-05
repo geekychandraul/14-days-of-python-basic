@@ -2,26 +2,28 @@
 
 Welcome to the **Python Foundation Course**! 🚀
 
-This repository contains a complete, 2-week curriculum designed to take you from **Zero to Capable** in Python. It is structured to require just **1 Hour Per Day** of study and practice.
+This repository contains a complete, 2-week curriculum designed to take you from **Zero to Basic** in Python. It is structured to require just **1 Hour Per Day** of study and practice.
+
+> **Note**: This repo will be continiously update and monitored to make sure the course is up to date. 
 
 > **Target Audience:** College Students & Beginners
+
 > **Prerequisites:** None. Just a laptop and curiosity.
+
+## I am here to help
+
+If you run into any issues, don’t hesitate to reach out! 
+I’m always happy to help—whether through the platform, via email at **[chandraul.bhaskar@gmail.com](mailto:chandraul.bhaskar@gmail.com)**, or on [LinkedIn](https://www.linkedin.com/in/bhaskarchandraul/) (I genuinely enjoy connecting!).
 
 ---
 
 ## 🛠️ Setup & Installation
-Before starting Day 01, make sure you have your environment ready:
+Before starting Day 01, make sure you have your environment ready. You can do so by completing the setup instructions for your respective system. Refer to [Setup Guide](00_Setup_Guide.md).
 
-1.  **Install Python:** [Download Here](https://www.python.org/downloads/) (Check "Add to PATH" during install!)
-2.  **Install VS Code:** [Download Here](https://code.visualstudio.com/)
-3.  **Install Jupyter:** Run this command in your terminal:
-    ```bash
-    pip install notebook
-    ```
-4.  **Clone This Repo:**
-    ```bash
-    git clone [https://github.com/YOUR-USERNAME/Python-Foundation-14-Days.git](https://github.com/YOUR-USERNAME/Python-Foundation-14-Days.git)
-    ```
+## Super useful resources
+
+- The course [repo](https://github.com/geekychandraul/14-Days-of-Python-Basics) with videos
+- Many essential guides in the [guides](guides/01_intro.ipynb) section.
 
 ---
 
@@ -79,5 +81,12 @@ In Module 2, you will build:
 ## 🤝 Contributing
 Found a typo? Want to add a better example?
 Feel free to **Fork** this repo and submit a **Pull Request**.
+
+If you have time, I'd love it if you submit a PR for changes in the community_contributions folder. Also, if you have a Github account, use this to showcase your variations. Not only is this essential practice, but it demonstrates your skills to others, including perhaps future clients or employers...
+While adding file please use below naming convention.
+
+*{day}_{Topic_name}_{Your_name}.ipynb / .py*
+
+Exmaple : **04_Operators_and_Boolean_Logic_John.ipynb**
 
 **Happy Coding! 🐍**
